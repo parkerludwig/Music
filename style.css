@@ -3,7 +3,6 @@ html,
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #8fb4d6;
-  overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
